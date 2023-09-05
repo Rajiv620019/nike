@@ -1,8 +1,42 @@
-# React + Vite
+# Nike Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Description
 
-Currently, two official plugins are available:
+This website is a stylish and innovative platform dedicated to Nike shoe enthusiasts. It showcases a wide range of Nike
+collections, from the latest arrivals to popular products, emphasizing comfort, quality, and style. The UI is modern and
+eye-catching and includes fancy styling. The website is fully responsive and can be viewed on any device.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Tech:
+
+```
+- HTML
+- Tailwind CSS
+- React
+- Netlify
+```
+
+## Screenshots
+
+### Home Page
+
+![Homepage Screenshot](./src/assets/screenshots/1.png)
+
+### Product Page
+
+![Homepage Screenshot](./src/assets/screenshots/2.png)
+
+### Popular Products
+
+![Homepage Screenshot](./src/assets/screenshots/3.png)
+
+### Special Offers
+
+![Homepage Screenshot](./src/assets/screenshots/4.png)
+
+### Reviews
+
+![Homepage Screenshot](./src/assets/screenshots/5.png)
+
+### Newsletter
+
+![Homepage Screenshot](./src/assets/screenshots/6.png)
