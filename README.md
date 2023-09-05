@@ -15,6 +15,10 @@ eye-catching and includes fancy styling. The website is fully responsive and can
 - Netlify
 ```
 
+### Live
+
+Visit the website [here](https://rajiv-nike.netlify.app/).
+
 ## Screenshots
 
 ### Home Page
